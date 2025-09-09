@@ -68,6 +68,13 @@
       "ownerId": "test911",
       "licenseKey": "TRY-73HI-BZ0R-97PG",
       "active": false
+    },
+    {
+      "ownerId": "opop",
+      "discordId": "489818677902966806",
+      "serverName": "opop fight",
+      "licenseKey": "TRY-AIRW-PBM8-D9P3",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
