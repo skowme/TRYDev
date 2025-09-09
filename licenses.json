@@ -14,6 +14,11 @@
       "ownerId": "_skowme",
       "licenseKey": "TRY-DAVX-DI3B-VLPO",
       "active": false
+    },
+    {
+      "ownerId": "tu",
+      "licenseKey": "TRY-LOSI-LL1K-GNL5",
+      "active": true
     }
   ]
 }
