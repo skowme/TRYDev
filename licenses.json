@@ -27,6 +27,13 @@
       "serverName": "Gunshot",
       "licenseKey": "TRY-2ZZ9-B92C-5AU6",
       "active": true
+    },
+    {
+      "ownerId": "Torix_11",
+      "discordId": "364926895319678978",
+      "serverName": "Torix Fights",
+      "licenseKey": "TRY-6ZM6-9WOR-WRJY",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
