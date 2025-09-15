@@ -20,6 +20,13 @@
       "serverName": "OG Fight",
       "licenseKey": "TRY-OJS6-U817-AYB3",
       "active": true
+    },
+    {
+      "ownerId": "Gangshot",
+      "discordId": "817876192706953226",
+      "serverName": "Gunshot",
+      "licenseKey": "TRY-2ZZ9-B92C-5AU6",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
