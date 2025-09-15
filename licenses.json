@@ -13,6 +13,13 @@
       "serverName": "1",
       "licenseKey": "TRY-LPA8-LI90-RVFO",
       "active": true
+    },
+    {
+      "ownerId": "Corex_Store12_1",
+      "discordId": "1173337249916665926",
+      "serverName": "OG Fight",
+      "licenseKey": "TRY-OJS6-U817-AYB3",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
