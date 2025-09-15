@@ -48,6 +48,13 @@
       "serverName": "TX FIGHTS",
       "licenseKey": "TRY-GKLR-Z8EG-ZN4W",
       "active": true
+    },
+    {
+      "ownerId": "_skowme",
+      "discordId": "674974198455730186",
+      "serverName": "Skidrow Fight",
+      "licenseKey": "TRY-6QDZ-YYS5-RPE8",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
