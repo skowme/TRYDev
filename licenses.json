@@ -55,6 +55,13 @@
       "serverName": "Skidrow Fight",
       "licenseKey": "TRY-6QDZ-YYS5-RPE8",
       "active": true
+    },
+    {
+      "ownerId": "Dynmo12",
+      "discordId": "770982854824951820",
+      "serverName": "WarZone Fights",
+      "licenseKey": "TRY-4B2H-3JD9-RTG2",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
