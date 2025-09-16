@@ -62,6 +62,13 @@
       "serverName": "WarZone Fights",
       "licenseKey": "TRY-4B2H-3JD9-RTG2",
       "active": true
+    },
+    {
+      "ownerId": "1SomeOne",
+      "discordId": "491311031247962127",
+      "serverName": "BeGood Fight",
+      "licenseKey": "TRY-488Q-8L1T-5O9R",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
