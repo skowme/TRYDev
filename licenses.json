@@ -76,6 +76,13 @@
       "serverName": "LS Fight",
       "licenseKey": "TRY-LDZJ-LZIS-BIW0",
       "active": true
+    },
+    {
+      "ownerId": "Aboahmad_Csdev",
+      "discordId": "1062089187609808916",
+      "serverName": "Ember Fight",
+      "licenseKey": "TRY-E3GD-6IUB-CRM7",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
