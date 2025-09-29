@@ -83,6 +83,13 @@
       "serverName": "Ember Fight",
       "licenseKey": "TRY-E3GD-6IUB-CRM7",
       "active": true
+    },
+    {
+      "ownerId": "COSA_NOSTRA_PvP",
+      "discordId": "833049577561129010",
+      "serverName": "COSA NOSTRA",
+      "licenseKey": "TRY-DXIG-W0NY-WNT8",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
