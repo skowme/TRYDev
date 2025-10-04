@@ -90,6 +90,13 @@
       "serverName": "Skidrow Fight",
       "licenseKey": "TRY-H66Y-5TPB-ST5D",
       "active": true
+    },
+    {
+      "ownerId": "mtab-fb8f05",
+      "discordId": "1295882470872322070",
+      "serverName": "Kill Zone",
+      "licenseKey": "TRY-DB5H-DZR5-DHSK",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
