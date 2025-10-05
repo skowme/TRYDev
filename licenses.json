@@ -97,6 +97,13 @@
       "serverName": "Kill Zone",
       "licenseKey": "TRY-DB5H-DZR5-DHSK",
       "active": true
+    },
+    {
+      "ownerId": "MJOODE1",
+      "discordId": "793504632944853042",
+      "serverName": "Most Fight",
+      "licenseKey": "TRY-AIKO-0SMH-WSH1",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
