@@ -104,6 +104,13 @@
       "serverName": "Most Fight",
       "licenseKey": "TRY-AIKO-0SMH-WSH1",
       "active": true
+    },
+    {
+      "ownerId": "osuett",
+      "discordId": "1209137082321338369",
+      "serverName": "Class Fight",
+      "licenseKey": "TRY-XFXX-EVQ6-WLGO",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
