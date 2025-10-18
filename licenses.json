@@ -125,6 +125,13 @@
       "serverName": "Dark Fight",
       "licenseKey": "TRY-TPIE-9F5F-NI3G",
       "active": true
+    },
+    {
+      "ownerId": "im3z1",
+      "discordId": "826770023321436201",
+      "serverName": "Rush Fight",
+      "licenseKey": "TRY-VX0X-7MUY-DA1V",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
