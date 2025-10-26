@@ -139,6 +139,13 @@
       "serverName": "DARK Fight",
       "licenseKey": "TRY-Z721-S192-U634",
       "active": true
+    },
+    {
+      "ownerId": "StreetFights",
+      "discordId": "1295882470872322070",
+      "serverName": "Dark Matter",
+      "licenseKey": "TRY-RXML-5L54-AZ6B",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
