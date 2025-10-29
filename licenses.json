@@ -153,6 +153,13 @@
       "serverName": "DeathRow Fight",
       "licenseKey": "TRY-U2EE-US3R-18UU",
       "active": true
+    },
+    {
+      "ownerId": "S_L_X",
+      "discordId": "1074685647354351617",
+      "serverName": "Call Fight PvP",
+      "licenseKey": "TRY-BTK7-CAWO-DPOW",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
