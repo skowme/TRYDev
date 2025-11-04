@@ -160,6 +160,13 @@
       "serverName": "Call Fight PvP",
       "licenseKey": "TRY-BTK7-CAWO-DPOW",
       "active": true
+    },
+    {
+      "ownerId": "QUSAIR_alameri",
+      "discordId": "928536056914124851",
+      "serverName": "D9 Fight",
+      "licenseKey": "TRY-22T4-SQ50-A6WL",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
