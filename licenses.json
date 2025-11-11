@@ -167,6 +167,13 @@
       "serverName": "D9 Fight",
       "licenseKey": "TRY-22T4-SQ50-A6WL",
       "active": true
+    },
+    {
+      "ownerId": "astrk",
+      "discordId": "osc0",
+      "serverName": "No",
+      "licenseKey": "TRY-D1IF-LBQN-SZ91",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
