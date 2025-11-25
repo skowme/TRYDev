@@ -167,6 +167,13 @@
       "serverName": "FightLab",
       "licenseKey": "TRY-VK73-90R3-5TLC",
       "active": true
+    },
+    {
+      "ownerId": "TRY.Dev",
+      "discordId": "1363984492121030707",
+      "serverName": "kk",
+      "licenseKey": "TRY-48O0-6F8A-QLDS",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
