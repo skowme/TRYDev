@@ -181,6 +181,13 @@
       "serverName": "District Fight",
       "licenseKey": "TRY-QO2N-N3LZ-EM32",
       "active": true
+    },
+    {
+      "ownerId": "DC_STORE-1",
+      "discordId": "793504632944853042",
+      "serverName": "Most Fight",
+      "licenseKey": "TRY-0F3F-MR52-8B24",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
