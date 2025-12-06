@@ -188,6 +188,13 @@
       "serverName": "Most Fight",
       "licenseKey": "TRY-0F3F-MR52-8B24",
       "active": true
+    },
+    {
+      "ownerId": "M.38",
+      "discordId": "219662085917900810",
+      "serverName": "Target",
+      "licenseKey": "TRY-DQV2-DHDP-O2NZ",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
