@@ -189,7 +189,7 @@
       "licenseKey": "TRY-0F3F-MR52-8B24",
       "active": true
     },
-     {
+    {
       "ownerId": "Fakened",
       "discordId": "1118182762894086154",
       "serverName": "FraG Fight",
@@ -201,6 +201,13 @@
       "discordId": "219662085917900810",
       "serverName": "Target",
       "licenseKey": "TRY-DQV2-DHDP-O2NZ",
+      "active": true
+    },
+    {
+      "ownerId": "Mazen31",
+      "discordId": "1181235714705334382",
+      "serverName": "Crime Fight",
+      "licenseKey": "TRY-DQV2-DHDP-O7NZ",
       "active": true
     }
   ],
