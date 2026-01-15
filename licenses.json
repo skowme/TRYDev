@@ -209,6 +209,13 @@
       "serverName": "Crime Fight",
       "licenseKey": "TRY-DQV2-DHDP-O7NZ",
       "active": true
+    },
+    {
+      "ownerId": "KLASH205",
+      "discordId": "463428589719781387",
+      "serverName": "BOX Fight",
+      "licenseKey": "TRY-DQV2-DHDP-L4NZ",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
