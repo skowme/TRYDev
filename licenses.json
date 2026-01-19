@@ -223,6 +223,13 @@
       "serverName": "BOX Fight",
       "licenseKey": "TRY-DQV2-DHDP-L4NZ",
       "active": true
+    },
+    {
+      "ownerId": "sko",
+      "discordId": "914127051571724308",
+      "serverName": "try five",
+      "licenseKey": "TRY-DZU5-S5PU-NDRX",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
