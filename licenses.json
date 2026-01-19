@@ -230,6 +230,13 @@
       "serverName": "try five",
       "licenseKey": "TRY-DZU5-S5PU-NDRX",
       "active": true
+    },
+    {
+      "ownerId": "gogo",
+      "discordId": "489818677902966806",
+      "serverName": "gogo fight",
+      "licenseKey": "TRY-SSMS-YXDX-PT3V",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
