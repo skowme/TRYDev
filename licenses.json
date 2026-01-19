@@ -210,7 +210,7 @@
       "licenseKey": "TRY-DQV2-DHDP-O7NZ",
       "active": true
     },
-     {
+    {
       "ownerId": "asad",
       "discordId": "696164177948966992",
       "serverName": "vice city fight",
@@ -222,6 +222,13 @@
       "discordId": "463428589719781387",
       "serverName": "BOX Fight",
       "licenseKey": "TRY-DQV2-DHDP-L4NZ",
+      "active": true
+    },
+    {
+      "ownerId": "489818677902966806",
+      "discordId": "489818677902966806",
+      "serverName": "Test3mk",
+      "licenseKey": "TRY-5DA6-SN8B-DKYT",
       "active": true
     }
   ],
