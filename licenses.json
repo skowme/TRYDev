@@ -230,6 +230,13 @@
       "serverName": "kingDev",
       "licenseKey": "TRY-SSMS-YXDX-PT3V",
       "active": true
+    },
+    {
+      "ownerId": "3OF",
+      "discordId": "1256599590329778246",
+      "serverName": "NEXSS PVP",
+      "licenseKey": "TRY-HEHP-4F8Q-CUEM",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
