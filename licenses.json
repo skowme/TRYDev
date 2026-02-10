@@ -237,6 +237,13 @@
       "serverName": "NEXSS PVP",
       "licenseKey": "TRY-HEHP-4F8Q-CUEM",
       "active": true
+    },
+    {
+      "ownerId": "Bassam-f14175",
+      "discordId": "1384144817948459009",
+      "serverName": "RIFT PVP",
+      "licenseKey": "TRY-Z7M6-J7ZG-8D9T",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
