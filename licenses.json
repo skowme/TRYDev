@@ -244,6 +244,13 @@
       "serverName": "RIFT PVP",
       "licenseKey": "TRY-Z7M6-J7ZG-8D9T",
       "active": true
+    },
+    {
+      "ownerId": "moaaz2",
+      "discordId": "793504632944853042",
+      "serverName": "Most Fight",
+      "licenseKey": "TRY-HGF4-L4QG-MXE8",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
