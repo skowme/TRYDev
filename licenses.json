@@ -251,6 +251,13 @@
       "serverName": "Most Fight",
       "licenseKey": "TRY-HGF4-L4QG-MXE8",
       "active": true
+    },
+    {
+      "ownerId": "_skowme",
+      "discordId": "1462484436896448533",
+      "serverName": "qa pvp",
+      "licenseKey": "TRY-GWTM-Q9TV-QZ45",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
