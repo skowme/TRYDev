@@ -258,6 +258,13 @@
       "serverName": "qa pvp",
       "licenseKey": "TRY-GWTM-Q9TV-QZ45",
       "active": true
+    },
+    {
+      "ownerId": "ms.2",
+      "discordId": "1002609808677023744",
+      "serverName": "940 Fight",
+      "licenseKey": "TRY-CTQM-M9RX-HKW2",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
