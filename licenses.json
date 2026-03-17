@@ -265,6 +265,13 @@
       "serverName": "940 Fight",
       "licenseKey": "TRY-CTQM-M9RX-HKW2",
       "active": true
+    },
+    {
+      "ownerId": "sf8fight",
+      "discordId": "951971559428468746",
+      "serverName": "Fx PVP",
+      "licenseKey": "TRY-64UJ-S2NW-LXGZ",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
