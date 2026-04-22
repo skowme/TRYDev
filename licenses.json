@@ -286,6 +286,13 @@
       "serverName": "RED LINE FIGHT",
       "licenseKey": "TRY-D2SE-LV3S-GRRS",
       "active": true
+    },
+    {
+      "ownerId": "_Skowme",
+      "discordId": "245186490231947265",
+      "serverName": "Madness PvP",
+      "licenseKey": "TRY-MMTT-545H-P3K8",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
