@@ -293,6 +293,13 @@
       "serverName": "Madness PvP",
       "licenseKey": "TRY-MMTT-545H-P3K8",
       "active": true
+    },
+    {
+      "ownerId": "abdulla_alkaa-f567f3",
+      "discordId": "1321846942443245618",
+      "serverName": "Fight Lab",
+      "licenseKey": "TRY-7WHE-JC9S-LZ9Q",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
