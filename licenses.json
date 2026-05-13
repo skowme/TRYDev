@@ -300,6 +300,13 @@
       "serverName": "Fight Lab",
       "licenseKey": "TRY-7WHE-JC9S-LZ9Q",
       "active": true
+    },
+    {
+      "ownerId": "7b2r",
+      "discordId": "1047781033526956122",
+      "serverName": "Yas Fight",
+      "licenseKey": "TRY-NAX7-SESY-2ZDF",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
