@@ -307,6 +307,13 @@
       "serverName": "Yas Fight",
       "licenseKey": "TRY-NAX7-SESY-2ZDF",
       "active": true
+    },
+    {
+      "ownerId": "Omar_Ayham",
+      "discordId": "1235274888080527400",
+      "serverName": "Rwl Fight",
+      "licenseKey": "TRY-YAL9-WZPC-PNPU",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
