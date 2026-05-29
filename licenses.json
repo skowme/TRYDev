@@ -328,6 +328,13 @@
       "serverName": "Fire zone",
       "licenseKey": "TRY-UPDW-TQ4K-X5TZ",
       "active": true
+    },
+    {
+      "ownerId": "DigitalFight",
+      "discordId": "1125214516091826319",
+      "serverName": "Digital Fight",
+      "licenseKey": "TRY-63WE-8U3T-L2XK",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
