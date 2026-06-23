@@ -335,6 +335,13 @@
       "serverName": "Digital Fight",
       "licenseKey": "TRY-63WE-8U3T-L2XK",
       "active": true
+    },
+    {
+      "ownerId": "M6R305",
+      "discordId": "1206540319676694548",
+      "serverName": "Glow Fight",
+      "licenseKey": "TRY-ES9F-YBLX-96JG",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
