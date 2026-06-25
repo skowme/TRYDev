@@ -342,6 +342,13 @@
       "serverName": "Glow Fight",
       "licenseKey": "TRY-ES9F-YBLX-96JG",
       "active": true
+    },
+    {
+      "ownerId": "_skowme",
+      "discordId": "789184306164531280",
+      "serverName": "React Fight",
+      "licenseKey": "TRY-2DM2-T2ZA-6R4U",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
