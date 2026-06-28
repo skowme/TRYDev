@@ -349,6 +349,13 @@
       "serverName": "React Fight",
       "licenseKey": "TRY-2DM2-T2ZA-6R4U",
       "active": true
+    },
+    {
+      "ownerId": "_skowme",
+      "discordId": "1420442706731077793",
+      "serverName": "Outcast Fight",
+      "licenseKey": "TRY-GARW-3DUU-UCZL",
+      "active": true
     }
   ],
   "panelMessageId": "1415053663398789292"
